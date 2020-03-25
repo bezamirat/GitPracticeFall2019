@@ -1,5 +1,5 @@
 black
 white
 green
-yellow 
-brown
+red
+pink
